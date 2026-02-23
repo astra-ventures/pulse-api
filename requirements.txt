@@ -4,3 +4,8 @@ pydantic==2.10.4
 aiohttp>=3.9
 pyyaml>=6.0
 watchdog>=4.0
+
+# Dev / test
+pytest>=9.0
+httpx>=0.28
+pytest-asyncio>=1.0
